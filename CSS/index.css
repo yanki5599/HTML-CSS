@@ -1,0 +1,25 @@
+header h1{
+    text-align: center;
+   margin: 0;
+   
+}
+
+#index-h1{
+    margin: 0;
+    background-image: url("https://cdn.pixabay.com/photo/2015/11/19/08/52/banner-1050629_1280.jpg");
+    height: 150px;
+    align-content: center;
+}
+
+header nav img{
+    position: absolute;
+}
+
+#introduction{
+    margin: 50px;
+
+    p{
+        font-size: larger;
+    }
+}
+

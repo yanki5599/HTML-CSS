@@ -1,0 +1,14 @@
+
+div.col{
+    display: inline-block;
+}
+
+.desc{
+    text-align: center;
+}
+
+.gallery-img{
+    width: 150px;
+    border: 2px solid black;
+    margin: 10px;
+}

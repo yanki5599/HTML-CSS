@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+img{
+    width:  100%;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #282A35;
+}
+nav ul li{
+    float: left;
+}
+
+nav ul li a{
+    display: block;
+    padding: 18px;
+    background-color: #c2bdcf;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    background-color: #04AA6D;
+}
+
+
+.centered-text{
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    height: 50px;
+    background-color: rgb(161, 155, 196);
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+footer p{
+    text-align: center;
+}
